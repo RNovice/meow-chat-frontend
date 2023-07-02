@@ -9,8 +9,8 @@
 }
 
 html {
-  overflow-y: scroll;
-  overscroll-behavior-y: none;
+  overflow: scroll;
+  overscroll-behavior: none;
 }
 
 input:focus {

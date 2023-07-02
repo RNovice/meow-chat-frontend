@@ -30,7 +30,7 @@ export default function Navbar() {
                     <BiSearch className="text-white" />
                 </IconButton> */}
                 {/* User */}
-                <IconButton size="large">
+                <IconButton size="lar">
                     <BiUserCircle className="text-white" />
                 </IconButton>
             </div>
