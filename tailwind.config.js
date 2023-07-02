@@ -13,11 +13,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        m1: "#FFB5A7",
-        m2: "#FCD5CE",
-        m3: "#F8EDEB",
-        m4: "#F9DCC4",
-        m5: "#FEC89A",
+        m1: "#111",
+        m2: "#888",
+        m3: "#fafafa",
       },
     },
   },

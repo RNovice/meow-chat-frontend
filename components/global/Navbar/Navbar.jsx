@@ -8,7 +8,7 @@ export default function Navbar() {
             // height
             "h-[48px]",
             // bg-color
-            "bg-m5",
+            "bg-m1",
             // layout
             "flex justify-between items-center",
             "px-2"
@@ -16,7 +16,7 @@ export default function Navbar() {
             {/* Logo */}
             <div className={cx(
                 // color
-                "text-white",
+                "text-m3",
                 // font
                 "text-2xl",
                 "font-bold"
@@ -30,7 +30,7 @@ export default function Navbar() {
                     <BiSearch className="text-white" />
                 </IconButton> */}
                 {/* User */}
-                <IconButton size="medium">
+                <IconButton size="large">
                     <BiUserCircle className="text-white" />
                 </IconButton>
             </div>
